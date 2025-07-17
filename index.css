@@ -1,0 +1,22 @@
+article {
+  background-color: lightgrey;
+  margin-right: 400px;
+}
+
+s {
+  color: red;
+}
+
+#ra1 {
+  color: green;
+  font: weight bold;
+}
+
+.maintitle {
+  color: rgb(91, 40, 116);
+  background-color: lightgray;
+}
+
+.document {
+  background-color: darkgray;
+}
